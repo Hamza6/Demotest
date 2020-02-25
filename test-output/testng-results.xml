@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="22908" started-at="2020-02-25T21:18:08 PKT" finished-at="2020-02-25T21:18:31 PKT">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="22908" started-at="2020-02-25T21:18:08 PKT" finished-at="2020-02-25T21:18:31 PKT">
+      <class name="DEMOTEST.MOTO">
+        <test-method status="PASS" signature="main()[pri:0, instance:DEMOTEST.MOTO@5700d6b1]" name="main" duration-ms="12332" started-at="2020-02-25T21:18:08 PKT" finished-at="2020-02-25T21:18:20 PKT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+      </class> <!-- DEMOTEST.MOTO -->
+      <class name="DEMOTEST.LOG">
+        <test-method status="PASS" signature="main()[pri:0, instance:DEMOTEST.LOG@6fd02e5]" name="main" duration-ms="10529" started-at="2020-02-25T21:18:20 PKT" finished-at="2020-02-25T21:18:31 PKT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+      </class> <!-- DEMOTEST.LOG -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
